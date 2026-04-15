@@ -64,3 +64,8 @@ Lucas Yuji Nakayama Hirano - RM 563420
 Este projeto é uma simulação educacional e não deve ser utilizado para diagnósticos reais.
 Os dados são sintéticos e podem apresentar vieses.
 Em sistemas reais de saúde, é fundamental a validação por profissionais médicos, governança de dados e respeito à privacidade do paciente (LGPD).
+
+
+Validação por médicos
+Governança de dados
+Proteção à privacidade (LGPD)
