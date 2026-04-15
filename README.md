@@ -1,4 +1,4 @@
-# CardioIA - Fase 2: Diagnóstico Automatizado com IA
+# cardioIA - Fase 2: Diagnóstico Automatizado com IA
 
 Projeto desenvolvido para a **Fase 2** do PBL **CardioIA - A Nova Era da Cardiologia Inteligente**.
 
