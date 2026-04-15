@@ -1,0 +1,20 @@
+Sintoma1,Sintoma2,Doenca_Associada
+dor no peito,braço esquerdo,Infarto Agudo do Miocárdio
+dor no peito,aperto no tórax,Angina
+cansaço constante,fadiga,Insuficiência Cardíaca
+falta de ar,esforço,Falta de Ar / Insuficiência Cardíaca
+palpitações,aceleração irregular,Arritmia Cardíaca
+inchaço nas pernas,edema,Insuficiência Cardíaca
+suor frio,tontura,Infarto Agudo do Miocárdio
+dor no peito,irradiação costas,Angina
+fadiga extrema,repouso não ajuda,Insuficiência Cardíaca
+aperto no tórax,ansiedade,Angina
+falta de ar,intenso esforço,Angina
+palpitações,frequentes,Arritmia Cardíaca
+peso no tórax,refeições,Angina
+tontura,suor frio,Infarto Agudo do Miocárdio
+inchaço tornozelos,fadiga,Insuficiência Cardíaca
+dor no peito,peso,Angina
+coração acelera,irregular,Arritmia Cardíaca
+falta de ar,caminhar,Insuficiência Cardíaca
+fadiga constante,peso no tórax,Insuficiência Cardíaca
