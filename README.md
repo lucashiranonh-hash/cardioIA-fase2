@@ -57,7 +57,7 @@ Avaliação de acurácia e relatório de desempenho
 
 
 Lucas Yuji Nakayama Hirano - RM 563420
-
+Link do video > https://youtu.be/WrY_n5X4BlQ
 
 
 ⚠️ Considerações sobre IA Responsável
