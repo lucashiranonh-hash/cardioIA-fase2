@@ -7,14 +7,14 @@ Este módulo simula um **estetoscópio digital** com Inteligência Artificial, c
 - Sugerir diagnósticos cardiológicos com base em um mapa de conhecimento
 - Classificar o nível de risco do paciente (baixo risco ou alto risco) usando Machine Learning
 
-## 🎯 Objetivos da Fase 2
+##  Objetivos da Fase 2
 
 - Extrair informações de texto médico (NLP básico)
 - Criar um mapa de associação sintomas × doenças
 - Desenvolver um classificador de risco usando TF-IDF + Logistic Regression
 - Refletir sobre governança de dados e responsabilidade em IA na saúde
 
-## 📁 Estrutura do Projeto
+##  Estrutura do Projeto
 cardioia-fase2/
 ├── sintomas_pacientes.txt          # 10 frases de sintomas dos pacientes
 
@@ -32,7 +32,7 @@ cardioia-fase2/
 
 └── README.md
 
-## 🚀 Como executar o projeto
+##  Como executar o projeto
 
 ### Pré-requisitos
 - Python 3.8 ou superior
@@ -46,7 +46,7 @@ cardioia-fase2/
 Bashpython diagnostico_basico.py
 2. Classificador de risco (Parte 2):
 Abra o arquivo classificador_risco.ipynb no Jupyter Notebook ou execute as células.
-📊 Funcionalidades
+ Funcionalidades
 Parte 1 - Diagnóstico por sintomas
 
 Lê 10 frases de pacientes
