@@ -17,12 +17,19 @@ Este módulo simula um **estetoscópio digital** com Inteligência Artificial, c
 ## 📁 Estrutura do Projeto
 cardioia-fase2/
 ├── sintomas_pacientes.txt          # 10 frases de sintomas dos pacientes
+
 ├── mapa_conhecimento.csv           # Mapa de sintomas → diagnósticos
+
 ├── dataset_risco.csv               # Base de frases rotuladas (baixo/alto risco)
+
 ├── diagnostico_basico.py           # Parte 1 - Extração de sintomas e diagnóstico
+
 ├── classificador_risco.ipynb       # Parte 2 - Classificador com TF-IDF e ML
+
 ├── modelo_risco.pkl                # Modelo salvo (opcional)
+
 ├── vectorizer.pkl                  # Vectorizer salvo (opcional)
+
 └── README.md
 
 ## 🚀 Como executar o projeto
